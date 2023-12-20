@@ -1,0 +1,44 @@
+
+body{
+    background: rgb(8, 128, 66);
+    color: azure;
+    display: flex;
+    flex-direction:column;
+    text-align: center;
+    
+}
+
+header{
+align-items: center;
+font-size: 225%;
+
+}
+
+
+section{
+justify-content: center;
+align-items: center;
+justify-content: space-between;
+padding: 5%;
+margin: 5%;
+background-color:azure;
+color: black;
+border-radius: 20px;
+width: 50%;
+box-shadow: 3px 3px 10px rgb(24, 36, 34);
+margin: auto;
+font-size: 2em;
+}
+
+footer{
+font-size: 2em;
+}
+
+#imagem_manha{
+    width: 10em;
+    height: 10em;
+    padding: 8px;
+    border-radius: 50%; 
+   
+}
+
